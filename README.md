@@ -11,6 +11,9 @@
 [linkedin]: https://linkedin.com/in/Constantin-Hentgen
 [<img align="left" alt="Constantin-Hentgen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[Discord]: https://discordapp.com/channels/@me/357214102361341967/
+[<img align="left" alt="Constantin-Hentgen | Discord" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Fdiscord-logo-transparent-better.png&f=1&nofb=1" />][Discord]
+
 <br />
 
 ### Languages and Tools:
