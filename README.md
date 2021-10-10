@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=constantin-hentgen.com&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.com)](https://constantin-hentgen.com)
 
-- 🌱 I’m currently learning Java ♨
+- 🌱 Currently learning Java ♨
 - 🎯 Aiming to build a website with JS 🤔
 
 ### Connect with me:
