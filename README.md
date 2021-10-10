@@ -6,8 +6,7 @@
 
 ## I'm an Engineer Student
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: 
+- 🌱 I’m currently learning Java ♨
 
 ### Connect with me:
 
