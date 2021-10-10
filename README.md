@@ -1,6 +1,6 @@
 
 [website]:https://constantin-hentgen.com
-### Hi there, I'm [Constantin-Hentgen][website] 👋
+### Hi there, I'm [Constantin][website] 👋
 
 [![Website](https://img.shields.io/website?label=constantin-hentgen.com&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.com)](https://constantin-hentgen.com)
 
