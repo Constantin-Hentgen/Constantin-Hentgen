@@ -22,9 +22,11 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fandypi.co.uk%2Fwp-content%2Fuploads%2F2016%2F08%2Fjs4560_450.png&f=1&nofb=1" />][jsplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" />][webdevplaylist]
+[<img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG50.png" />][webdevplaylist]
+[<img align="left" alt="LaTeX" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flatex-logo-png-transparent.png&f=1&nofb=1" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mysql.com%2Fcommon%2Flogos%2Flogo-mysql-170x115.png&f=1&nofb=1" />][webdevplaylist]
 
-[<img align="left" alt="LaTeX" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flatex-logo-png-transparent.png&f=1&nofb=1" />][webdevplaylist]
 
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
