@@ -37,7 +37,7 @@
 
 [<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
 
-[<img align="left" alt="Terminal" width="26px" src="https://bit.ly/3CVM69g" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://bit.ly/3o7DLJG" />][website]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
