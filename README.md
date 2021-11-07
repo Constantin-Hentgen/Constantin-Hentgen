@@ -15,7 +15,7 @@
 [Discord]: https://discordapp.com/channels/@me/357214102361341967/
 [<img align="left" alt="Constantin-Hentgen | Discord" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Fdiscord-logo-transparent-better.png&f=1&nofb=1" />][Discord]
 
-<br />
+<br /><br />
 
 ## 🔧 **_Tools_**:
 
@@ -29,7 +29,7 @@
 
 [<img align="left" alt="LaTeX" width="26px" src="https://bit.ly/3mQQSzi" />][latex]
 
-<br />
+<br /><br />
 
 ## </\> **_Programming Languages_**:
 
@@ -40,9 +40,9 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][website]
 
 
-<br />
+<br /><br />
 
-## **_Web Developement_**:
+## 🌐 **_Web Developement_**:
 
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
 
