@@ -7,7 +7,7 @@
 - 🌱 Currently learning Java ♨
 - 🎯 Aiming to build my portfolio 🤔
 
-### 🌍 **_Web Developement_**:
+### 🌍 **Web Developement**:
 
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
 
@@ -21,7 +21,7 @@
 
 <br />
 
-### 📝 **_Programming Languages_**:
+### 📝 **Programming Languages**:
 
 [<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][pythonProject]
 
@@ -31,7 +31,7 @@
 
 <br />
 
-### 🔧 **_Tools_**:
+### 🔧 **Tools**:
 
 [<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
 
