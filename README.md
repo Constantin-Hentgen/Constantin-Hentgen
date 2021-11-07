@@ -17,7 +17,7 @@
 
 <br />
 
-### 🔧 **_Tools_**:
+## 🔧 **_Tools_**:
 
 [<img align="left" alt="Terminal" width="26px" src="https://bit.ly/3mQ1Wwz" />][website]
 
@@ -31,7 +31,7 @@
 
 <br />
 
-### </\> **_Programming Languages_**:
+## </\> **_Programming Languages_**:
 
 [<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][pythonProject]
 
@@ -42,7 +42,7 @@
 
 <br />
 
-### **_Web Developement_**:
+## **_Web Developement_**:
 
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
 
