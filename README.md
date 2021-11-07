@@ -7,9 +7,6 @@
 - 🌱 Currently learning Java ♨
 - 🎯 Aiming to build my portfolio 🤔
 
-<br />
-<br />
-
 ## 🌐 **_Web Developement_**:
 
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
