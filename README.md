@@ -19,6 +19,7 @@
 
 [<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3EQrJem" />][website]
 
+<br />
 <hr>
 
 ### 📝 **_Programming Languages_**:
@@ -29,6 +30,7 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][website]
 
+<br />
 <hr>
 
 ### 🔧 **_Tools_**:
