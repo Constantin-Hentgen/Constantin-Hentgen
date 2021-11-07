@@ -1,13 +1,13 @@
 
 [website]:https://constantin-hentgen.fr
-### Hi there, I'm [Constantin][website] 👋
+# Hi there, I'm [Constantin][website] 👋
 
 [![Website](https://img.shields.io/website?label=constantin-hentgen.fr&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.fr)](https://constantin-hentgen.fr)
 
 - 🌱 Currently learning Java ♨
 - 🎯 Aiming to build my portfolio 🤔
 
-# 🔎 **_Connect with me_**:
+## 🔎 **_Connect with me_**:
 
 [linkedin]: https://linkedin.com/in/Constantin-Hentgen
 [<img align="left" alt="Constantin-Hentgen | LinkedIn" width="22px" src="https://bit.ly/3o4RyRh" />][linkedin]
