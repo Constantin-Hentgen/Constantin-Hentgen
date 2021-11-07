@@ -7,7 +7,7 @@
 - 🌱 Currently learning Java ♨
 - 🎯 Aiming to build my portfolio 🤔
 
-### 🔎 **_Connect with me_**:
+# 🔎 **_Connect with me_**:
 
 [linkedin]: https://linkedin.com/in/Constantin-Hentgen
 [<img align="left" alt="Constantin-Hentgen | LinkedIn" width="22px" src="https://bit.ly/3o4RyRh" />][linkedin]
