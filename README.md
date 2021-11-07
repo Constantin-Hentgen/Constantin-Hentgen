@@ -21,6 +21,7 @@
 
 <br />
 <br />
+<hr>
 
 ### 📝 **_Programming Languages_**:
 
@@ -32,6 +33,7 @@
 
 <br />
 <br />
+<hr>
 
 ### 🔧 **_Tools_**:
 
