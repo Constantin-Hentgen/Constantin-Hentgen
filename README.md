@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" />][webdevplaylist]
 [<img align="left" alt="LaTeX" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flatex-logo-png-transparent.png&f=1&nofb=1" />][webdevplaylist]
-[<img align="left" alt="Java" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmpng.subpng.com%2F20180404%2Febw%2Fkisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg&f=1&nofb=1" />][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.minecraftkrant.nl%2Fmedia%2F157%2Fjava-logo.png&f=1&nofb=1" />][webdevplaylist]
 
 <br />
 
