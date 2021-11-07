@@ -20,7 +20,9 @@
 [<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3EQrJem" />][website]
 
 <br />
-<hr>
+_____________________________________________
+
+<br />
 
 ### 📝 **_Programming Languages_**:
 
