@@ -7,15 +7,34 @@
 - 🌱 Currently learning Java ♨
 - 🎯 Aiming to build my portfolio 🤔
 
-## 🔎 **_Connect with me_**:
+<br />
+<br />
 
-[linkedin]: https://linkedin.com/in/Constantin-Hentgen
-[<img align="left" alt="Constantin-Hentgen | LinkedIn" width="22px" src="https://bit.ly/3o4RyRh" />][linkedin]
+## 🌐 **_Web Developement_**:
 
-[Discord]: https://discordapp.com/channels/@me/357214102361341967/
-[<img align="left" alt="Constantin-Hentgen | Discord" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Fdiscord-logo-transparent-better.png&f=1&nofb=1" />][Discord]
+[<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
 
-<br /><br />
+[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][phpProject]
+
+[<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
+
+[<img align="left" alt="Php" width="26px" src="https://bit.ly/3wmGfaP" />][phpProject]
+
+[<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3EQrJem" />][website]
+
+<br />
+<br />
+
+## </\> **_Programming Languages_**:
+
+[<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][pythonProject]
+
+[<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][website]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][website]
+
+<br />
+<br />
 
 ## 🔧 **_Tools_**:
 
@@ -29,30 +48,16 @@
 
 [<img align="left" alt="LaTeX" width="26px" src="https://bit.ly/3mQQSzi" />][latex]
 
-<br /><br />
+<br />
+<br />
 
-## </\> **_Programming Languages_**:
+## 🔎 **_Connect with me_**:
 
-[<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][pythonProject]
+[linkedin]: https://linkedin.com/in/Constantin-Hentgen
+[<img align="left" alt="Constantin-Hentgen | LinkedIn" width="22px" src="https://bit.ly/3o4RyRh" />][linkedin]
 
-[<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][website]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][website]
-
-
-<br /><br />
-
-## 🌐 **_Web Developement_**:
-
-[<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
-
-[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][phpProject]
-
-[<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
-
-[<img align="left" alt="Php" width="26px" src="https://bit.ly/3wmGfaP" />][phpProject]
-
-[<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3EQrJem" />][website]
+[Discord]: https://discordapp.com/channels/@me/357214102361341967/
+[<img align="left" alt="Constantin-Hentgen | Discord" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Fdiscord-logo-transparent-better.png&f=1&nofb=1" />][Discord]
 
 
 [pythonProject]: https://github.com/Constantin-Hentgen/Text-Parser
