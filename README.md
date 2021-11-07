@@ -17,13 +17,21 @@
 
 <br />
 
-### Languages and Tools:
+### Tools:
 
 [<img align="left" alt="Terminal" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinux-tux-1-logo-png-transparent.png&f=1&nofb=1" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+
+<br />
+
+### Programming Languages
+
 [<img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" />][webdevplaylist]
 [<img align="left" alt="LaTeX" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flatex-logo-png-transparent.png&f=1&nofb=1" />][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmpng.subpng.com%2F20180404%2Febw%2Fkisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg&f=1&nofb=1" />][webdevplaylist]
+
+<br />
 
 ### Web Developement
 
