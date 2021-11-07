@@ -1,13 +1,13 @@
 
 [website]:https://constantin-hentgen.fr
-# Hi there, I'm [Constantin][website] 👋
+## Hi there, I'm [Constantin][website] 👋
 
 [![Website](https://img.shields.io/website?label=constantin-hentgen.fr&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.fr)](https://constantin-hentgen.fr)
 
 - 🌱 Currently learning Java ♨
 - 🎯 Aiming to build my portfolio 🤔
 
-## 🌍 **_Web Developement_**:
+### 🌍 **_Web Developement_**:
 
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
 
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-## 📝 **_Programming Languages_**:
+### 📝 **_Programming Languages_**:
 
 [<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][pythonProject]
 
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-## 🔧 **_Tools_**:
+### 🔧 **_Tools_**:
 
 [<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
 
