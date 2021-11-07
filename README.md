@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=constantin-hentgen.fr&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.fr)](https://constantin-hentgen.fr)
 
 - 🌱 Currently learning Java ♨
-- 🎯 Aiming to build my portfolio 🤔
+- 🎯 Aiming to build my personnal website 🤔
 
 ### 🌍 **Web Developement**:
 
