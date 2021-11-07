@@ -55,7 +55,7 @@
 
 [<img align="left" alt="Php" width="26px" src="https://bit.ly/3wmGfaP" />][phpProject]
 
-[<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3EQrJem" />][webiste]
+[<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3EQrJem" />][website]
 
 
 [pythonProject]: https://github.com/Constantin-Hentgen/Text-Parser
