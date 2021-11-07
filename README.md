@@ -31,7 +31,7 @@
 
 <br />
 
-### 🔧 **Tools**:
+### 🔧 **My Tools**:
 
 [<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
 
@@ -41,11 +41,8 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
-[<img align="left" alt="LaTeX" width="26px" src="https://bit.ly/3mQQSzi" />][latex]
-
 [pythonProject]: https://github.com/Constantin-Hentgen/Text-Parser
 [vscode]:https://code.visualstudio.com/
-[latex]:https://www.latex-project.org/get/
 [htmlProject]:https://github.com/Constantin-Hentgen/TouYoube
 [vueJS]:https://vuejs.org/
 [phpProject]:https://github.com/Constantin-Hentgen/PHP-Experiment
