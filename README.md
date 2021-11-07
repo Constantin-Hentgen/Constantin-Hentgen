@@ -25,7 +25,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
+[<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
+
 [<img align="left" alt="LaTeX" width="26px" src="https://bit.ly/3mQQSzi" />][latex]
+
+
 
 
 <br />
@@ -60,3 +64,4 @@
 [htmlProject]:https://github.com/Constantin-Hentgen/TouYoube
 [vueJS]:https://vuejs.org/
 [phpProject]:https://github.com/Constantin-Hentgen/PHP-Experiment
+[fedora]:https://getfedora.org/
