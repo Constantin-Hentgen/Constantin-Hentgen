@@ -7,7 +7,7 @@
 - 🌱 Currently learning Java ♨
 - 🎯 Aiming to build my portfolio 🤔
 
-### 🔎 Connect with me:
+### 🔎 **_Connect with me_**:
 
 [linkedin]: https://linkedin.com/in/Constantin-Hentgen
 [<img align="left" alt="Constantin-Hentgen | LinkedIn" width="22px" src="https://bit.ly/3o4RyRh" />][linkedin]
@@ -17,7 +17,7 @@
 
 <br />
 
-### 🔧 Tools:
+### 🔧 **_Tools_**:
 
 [<img align="left" alt="Terminal" width="26px" src="https://bit.ly/3mQ1Wwz" />][website]
 
@@ -31,7 +31,7 @@
 
 <br />
 
-### </\> Programming Languages:
+### </\> **_Programming Languages_**:
 
 [<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][pythonProject]
 
@@ -42,7 +42,7 @@
 
 <br />
 
-### Web Developement:
+### **_Web Developement_**:
 
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
 
