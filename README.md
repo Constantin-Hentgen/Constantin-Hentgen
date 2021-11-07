@@ -49,7 +49,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/3o944im" />][htmlProject]
 
-[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][htmlProject]
+[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][phpProject]
 
 [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
 
