@@ -47,25 +47,11 @@
 
 ### Web Developement
 
-<br />
-
-##Front End
-
-<br />
-
 [<img align="left" alt="HTML5" width="26px" src="https://bit.ly/2ZZmBFA" />][webdevplaylist]
 
 [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][webdevplaylist]
 
 [<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][cssplaylist]
-
-<br />
-
-### Web Developpment
-
-<br />
-
-##Back End
 
 [<img align="left" alt="Php" width="26px" src="https://bit.ly/3wmGfaP" />][webdevplaylist]
 
