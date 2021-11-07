@@ -59,7 +59,7 @@
 
 
 [pythonProject]: https://github.com/Constantin-Hentgen/Text-Parser
-[vscode]:https://vscode.dev/
+[vscode]:https://code.visualstudio.com/
 [latex]:https://www.latex-project.org/get/
 [htmlProject]:https://github.com/Constantin-Hentgen/TouYoube
 [vueJS]:https://vuejs.org/
