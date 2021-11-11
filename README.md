@@ -17,8 +17,6 @@
 
 [<img align="left" alt="Php" width="26px" src="https://bit.ly/3wmGfaP" />][phpProject]
 
-[<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3EQrJem" />][website]
-
 <br />
 
 ### 📝 **Programming Languages**:
