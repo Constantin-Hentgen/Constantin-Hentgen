@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=constantin-hentgen.fr&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.fr)](https://constantin-hentgen.fr)
 
-- 🌱 Currently learning Vue.js ♨
+- 🌱 Currently learning Vue.js
 - 🎯 Aiming to build a website with Vue.js and Express 🤔
 
 ### 🌍 **Web Developement**:
