@@ -11,19 +11,19 @@
 
 [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
 
-[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][phpProject]
+[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
 
-[<img align="left" alt="Php" width="26px" src="https://bit.ly/3wmGfaP" />][phpProject]
+[<img align="left" alt="Php" width="26px" src="https://bit.ly/3wmGfaP" />][php]
 
 <br />
 
 ### 📝 **Programming Languages**:
 
-[<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][pythonProject]
+[<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python]
 
-[<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][website]
+[<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript]
 
 <br />
 
@@ -37,11 +37,13 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
-[pythonProject]: https://github.com/Constantin-Hentgen/Text-Parser
+[python]:https://www.python.org/
 [vscode]:https://code.visualstudio.com/
-[htmlProject]:https://github.com/Constantin-Hentgen/TouYoube
 [vueJS]:https://vuejs.org/
-[phpProject]:https://github.com/Constantin-Hentgen/PHP-Experiment
+[sass]:https://sass-lang.com/
+[javascript]:https://www.javascript.com/
+[php]:https://www.php.net/
+[java]:https://www.java.com/en/download/help/whatis_java.html
 [fedora]:https://getfedora.org/
 [bash]:https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29
 [bepo]:https://bepo.fr/wiki/Accueil
