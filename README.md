@@ -19,11 +19,11 @@
 
 ### 📝 **Programming Languages**:
 
-[<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python]
-
 [<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript]
+
+[<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python]
 
 <br />
 
