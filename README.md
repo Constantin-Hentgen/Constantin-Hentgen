@@ -11,9 +11,9 @@
 
 [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
 
-[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
-
 [<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript]
+
+[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
 
 <br />
 
