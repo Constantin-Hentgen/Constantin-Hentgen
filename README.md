@@ -5,12 +5,11 @@
 [![Website](https://img.shields.io/website?label=constantin-hentgen.fr&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.fr)](https://constantin-hentgen.fr)
 
 - 🌱 Currently learning Vue.js
-- 🎯 Aiming to build a website with Vue.js and Express 🤔
+- 🎯 Building an android app
 
 ### 🌍 **Web Developement**:
 
 [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
-
 
 [<img align="left" alt="TailwindCss" width="26px" src="https://bit.ly/3tnpvQF" />][tailwindcss]
 
