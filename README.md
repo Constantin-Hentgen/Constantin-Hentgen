@@ -1,7 +1,7 @@
 [website]:https://constantin-hentgen.fr
 ## Hi there, I'm [Constantin][website] 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=constantin-hentgen&count_private=true&show_icons=true&hide=stars&include_all_commits=false)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=constantin-hentgen&include_all_commits=true&count_private=true&show_icons=true&hide=stars)]()
 <br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&langs_count=10&layout=compact)]()
 
