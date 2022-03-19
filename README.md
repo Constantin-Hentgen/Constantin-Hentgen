@@ -36,6 +36,10 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=constantin-hentgen&count_private=true&showicons=false)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&langs_count=10)]()
+
+
 [python]:https://www.python.org/
 [vscode]:https://code.visualstudio.com/
 [vueJS]:https://vuejs.org/
