@@ -7,6 +7,8 @@
 - 🌱 Currently learning Vue.js
 - 🎯 Building an android app
 
+## 🌎 **Web development
+
 [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
 
 [<img align="left" alt="TailwindCss" width="26px" src="https://bit.ly/3weWcSm" />][tailwindcss]
@@ -15,7 +17,7 @@
 
 <br />
 
-### 📝 **Programming Languages**:
+### 📝 **Programming Languages**
 
 [<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java]
 
@@ -25,7 +27,7 @@
 
 <br />
 
-### 🔧 **My Tools**:
+### 🔧 **My Tools**
 
 [<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
 
