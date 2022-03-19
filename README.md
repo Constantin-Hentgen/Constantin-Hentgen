@@ -7,10 +7,31 @@
 - 🌱 Currently learning Vue.js
 - 🎯 Building an android app
 
+[<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
 
-| 🌍 **Web Developement**	| [<img alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS] [<img alt="TailwindCss" width="26px" src="https://bit.ly/3tnpvQF" />][tailwindcss] [<img alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass] 	|
-| 📝 **Programming Languages** 	| [<img alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java] [<img alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python] [<img alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript] 	|
-| 🔧 **My Tools** 	| [<img alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora] [<img alt="Terminal" width="26px" src="https://bit.ly/3bMfiUz" />][bash] [<img alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode] 	|
+[<img align="left" alt="TailwindCss" width="26px" src="https://bit.ly/3mSLtb7" />][tailwindcss]
+
+[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
+
+<br />
+
+### 📝 **Programming Languages**:
+
+[<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript]
+
+[<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python]
+
+<br />
+
+### 🔧 **My Tools**:
+
+[<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
+
+[<img align="left" alt="Terminal" width="26px" src="https://bit.ly/3bMfiUz" />][bash]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
 
 [python]:https://www.python.org/
