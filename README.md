@@ -2,7 +2,8 @@
 [website]:https://constantin-hentgen.fr
 ## Hi there, I'm [Constantin][website] 👋
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&langs_count=5)]()\\
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&langs_count=5)]()
+<br />
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=constantin-hentgen&count_private=true&showicons=false)]()
 
 - 🌱 Currently learning Vue.js
