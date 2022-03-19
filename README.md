@@ -7,13 +7,7 @@
 - 🌱 Currently learning Vue.js
 - 🎯 Building an android app
 
-### 🌍 **Web Developement**:
-
-[<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
-
-[<img align="left" alt="TailwindCss" width="26px" src="https://bit.ly/3tnpvQF" />][tailwindcss]
-
-[<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
+### 🌍 **Web Developement** | [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS] [<img align="left" alt="TailwindCss" width="26px" src="https://bit.ly/3tnpvQF" />][tailwindcss] [<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
 
 <br />
 
