@@ -29,8 +29,6 @@
 
 [<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
 
-[<img align="left" alt="Bepo" width="26px" src="https://bit.ly/31FI4V1" />][bepo]
-
 [<img align="left" alt="Terminal" width="26px" src="https://bit.ly/3bMfiUz" />][bash]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
@@ -44,4 +42,3 @@
 [java]:https://www.java.com/en/download/help/whatis_java.html
 [fedora]:https://getfedora.org/
 [bash]:https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29
-[bepo]:https://bepo.fr/wiki/Accueil
