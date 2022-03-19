@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=constantin-hentgen.fr&style=for-the-badge&url=https%3A%2F%2Fconstantin-hentgen.fr)](https://constantin-hentgen.fr)
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&langs_count=10)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&langs_count=5)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=constantin-hentgen&count_private=true&showicons=false)]()
 
 - 🌱 Currently learning Vue.js
