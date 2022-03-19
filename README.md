@@ -11,7 +11,8 @@
 
 [<img align="left" alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript]
+
+[<img align="left" alt="TailwindCss" width="26px" src="https://bit.ly/3tnpvQF" />][tailwindcss]
 
 [<img align="left" alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
 
@@ -22,6 +23,8 @@
 [<img align="left" alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java]
 
 [<img align="left" alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript]
 
 <br />
 
@@ -42,3 +45,4 @@
 [java]:https://www.java.com/en/download/help/whatis_java.html
 [fedora]:https://getfedora.org/
 [bash]:https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29
+[tailwindcss]:https://tailwindcss.com/
