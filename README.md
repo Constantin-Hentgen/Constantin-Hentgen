@@ -7,11 +7,11 @@
 - 🌱 Currently learning Vue.js
 - 🎯 Building an android app
 
-### 🌍 **Web Developement** | [<img alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS] [<img alt="TailwindCss" width="26px" src="https://bit.ly/3tnpvQF" />][tailwindcss] [<img alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass]
 
-### 📝 **Programming Languages** | [<img alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java] [<img alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python] [<img alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript]
+| 🌍 **Web Developement**	| [<img alt="VueJS" width="26px" src="https://bit.ly/304Tnp2" />][vueJS] [<img alt="TailwindCss" width="26px" src="https://bit.ly/3tnpvQF" />][tailwindcss] [<img alt="Sass" width="26px" src="https://bit.ly/3mSLtb7" />][sass] 	|
+| 📝 **Programming Languages** 	| [<img alt="Java" width="26px" src="https://bit.ly/3mP8H1U" />][java] [<img alt="Python" width="26px" src="https://bit.ly/3GY7Q6S" />][python] [<img alt="JavaScript" width="26px" src="https://bit.ly/31tlmz8" />][javascript] 	|
+| 🔧 **My Tools** 	| [<img alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora] [<img alt="Terminal" width="26px" src="https://bit.ly/3bMfiUz" />][bash] [<img alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode] 	|
 
-### 🔧 **My Tools** | [<img alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora] [<img alt="Terminal" width="26px" src="https://bit.ly/3bMfiUz" />][bash] [<img alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
 
 [python]:https://www.python.org/
 [vscode]:https://code.visualstudio.com/
