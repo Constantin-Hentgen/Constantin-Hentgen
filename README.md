@@ -5,17 +5,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&langs_count=10&layout=compact&theme=react)]()
 
-- 🌱 Currently learning Vue.js
-- 🎯 Building an android app
-
-### 🔧 **My Tools**
-
-[<img align="left" alt="Fedora" width="26px" src="https://bit.ly/3bPDoxC" />][fedora]
-
-[<img align="left" alt="Terminal" width="26px" src="https://bit.ly/3bMfiUz" />][bash]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/3o9i0Jt" />][vscode]
-
 [python]:https://www.python.org/
 [vscode]:https://code.visualstudio.com/
 [vueJS]:https://vuejs.org/
