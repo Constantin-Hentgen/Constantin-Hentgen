@@ -1,16 +1,6 @@
 [website]:https://constantin-hentgen.fr
-## Hi there, I'm <a href="http://constantin-hentgen.com/" target="_blank">Constantin</a> 👋
+## Hi there, I'm <a href="https://constantin-hentgen.com/" target="_blank">Constantin</a> 👋
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&layout=compact&langs_count=4&hide=html,css,scss&theme=react)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=constantin-hentgen&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&theme=react)]()
-
-[python]:https://www.python.org/
-[vscode]:https://code.visualstudio.com/
-[vueJS]:https://vuejs.org/
-[sass]:https://sass-lang.com/
-[javascript]:https://www.javascript.com/
-[java]:https://www.java.com/en/download/help/whatis_java.html
-[fedora]:https://getfedora.org/
-[bash]:https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29
-[tailwindcss]:https://tailwindcss.com/
