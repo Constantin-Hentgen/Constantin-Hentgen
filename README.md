@@ -1,5 +1,4 @@
-[website]:https://constantin-hentgen.fr
-## Hi there, I'm <a href="https://constantin-hentgen.com/" target="_blank">Constantin</a> 👋
+## Hi there, I'm [Constantin](https://constantin-hentgen.com) 👋
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-hentgen&layout=compact&langs_count=4&hide=html,css,scss&theme=react)]()
 
